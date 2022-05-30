@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning PHP and practicing DSA. 
 - 📫 LINKEDIN ID - https://www.linkedin.com/in/devesh-singh-a98a3a1b7
 
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
-
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
