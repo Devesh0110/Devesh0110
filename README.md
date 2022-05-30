@@ -6,4 +6,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+![GitHub Views(https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)]
